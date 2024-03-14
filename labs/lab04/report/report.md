@@ -34,7 +34,14 @@ polyglossia-lang:
 	- spelling=modern
 	- babelshorthands=true
 polyglossia-otherlangs:
-  name: english
+  name: english1 файл, (687 байт) 
+
+
+--
+Марина Прокопьева
+Отправлено из Почты Mail.ru
+Перейти на версию для людей с ограниченными возможностями.
+
   
 ## I18n babel
 
